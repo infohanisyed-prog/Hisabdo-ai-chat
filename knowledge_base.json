@@ -1,0 +1,27 @@
+[
+  {
+    "id": "expense-001",
+    "title": "Adding an expense",
+    "content": "To add an expense in HisabDo, open the Expenses area, choose the option to add a new expense, enter the required expense details, and save it."
+  },
+  {
+    "id": "income-001",
+    "title": "Adding income",
+    "content": "Income records should be entered from the income section using the available add-income workflow and then saved with the required details."
+  },
+  {
+    "id": "reports-001",
+    "title": "Reports",
+    "content": "Reports help users review and understand their recorded financial activity. Use the Reports area to inspect available summaries and report information."
+  },
+  {
+    "id": "settings-001",
+    "title": "Account and settings",
+    "content": "Account and application preferences can be managed from the available account or settings area. Only provide steps that are supported by the approved product knowledge."
+  },
+  {
+    "id": "faq-001",
+    "title": "Product support rule",
+    "content": "If a requested HisabDo feature or workflow is not present in the approved knowledge base, do not invent instructions. Tell the user that the information is not available in the current knowledge base."
+  }
+]
