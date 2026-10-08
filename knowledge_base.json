@@ -1,4 +1,10 @@
+```json
 [
+  {
+    "id": "product-001",
+    "title": "What is HisabDo?",
+    "content": "HisabDo is an expense management application that helps users record and manage their expenses and income, review financial reports, and manage available account and application settings."
+  },
   {
     "id": "expense-001",
     "title": "Adding an expense",
@@ -25,3 +31,4 @@
     "content": "If a requested HisabDo feature or workflow is not present in the approved knowledge base, do not invent instructions. Tell the user that the information is not available in the current knowledge base."
   }
 ]
+```
